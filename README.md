@@ -6,7 +6,7 @@
 
 ### 📲 Contatos ----------------------->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvfirmeza@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victorfirmeza)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorfirmeza/)
 
 ![Daniel Filho's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfirmeza&show_icons=true&theme=dracula)

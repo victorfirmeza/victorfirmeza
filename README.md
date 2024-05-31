@@ -4,14 +4,14 @@
 - 📚 Estudante de ADS (Analise e Desenvolvimento de Sistemas).<br>
 - 🖥️ Apaixonado pelo mundo TECH!
 
-### 📲 Contatos:
+### 📲 CONTATOS :
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvfirmeza@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victorfirmeza)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorfirmeza/)
 
 ![Victor Firmeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfirmeza&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfirmeza)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🖥️ Tecnologias que utilizo:
+### 🖥️ TECNOLOGIAS QUE UTILIZO :
 <div style="display: incline_block">
    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">

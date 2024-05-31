@@ -1,7 +1,7 @@
 ### <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25"> Oi, sou JV 
 <br>
 
-- 💬 A procura da primeira oportunidade na área de desenvolvimento. ![](https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png)
+- 💬 A procura da primeira oportunidade na área de desenvolvimento. ![]("https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png", "width=800")
 - 📚 Estudante de ADS (Analise e Desenvolvimento de Sistemas).
 - 🖥️ Apaixonado pelo mundo TECH!
 

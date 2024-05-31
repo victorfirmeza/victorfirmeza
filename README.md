@@ -2,7 +2,7 @@
 <br>
 
 - 💬 A procura da primeira oportunidade na área de desenvolvimento. <div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50">
 </div>
 
 - 📚 Estudante de ADS (Analise e Desenvolvimento de Sistemas).

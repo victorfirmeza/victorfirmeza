@@ -9,7 +9,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/victorfirmeza)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorfirmeza/)
 
-![Victor Firmeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfirmeza&show_icons=true&theme=dracula)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfirmeza)](https://github.com/anuraghazra/github-readme-stats)
+![Victor Firmeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorfirmeza&show_icons=true&theme=dracula)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfirmeza&hide_progress=true)
 
 ### 🖥️ Tecnologias que utilizo:
 <div style="display: incline_block">
